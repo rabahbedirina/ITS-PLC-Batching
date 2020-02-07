@@ -1,0 +1,11 @@
+[PrjV2]
+Kennung=WS7V2
+iAktivesUnterprojekt=0
+bSimulatorAktiv=1
+ExternWeg=0
+LetzteAenderungTicks=81825130
+LetzteAenderungDatum=09.11.2016
+LetzteAenderungUhrzeit=21:12:37
+WinPLC7-Version=V5.036
+[UPrj]
+P0=SYSTEM BATCHING\SYSTEM BATCHING.PRJ
